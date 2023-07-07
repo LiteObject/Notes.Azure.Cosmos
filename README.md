@@ -1,1 +1,7 @@
-# Notes.Azure.Cosmos
+# Notes Azure Cosmos
+
+## Cosmos DB Organization
+
+```mermaid
+
+```
